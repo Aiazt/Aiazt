@@ -1,4 +1,4 @@
-### Hi there 👋
+### Personal GitHub home page 🚀
 
 <!--
 **Aiazt/Aiazt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
