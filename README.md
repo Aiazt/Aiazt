@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="./beautiful.css">
+
 ### Personal GitHub home page 🚀
 
 Explore interesting and fun projects and keep this passion alive...
