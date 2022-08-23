@@ -1,4 +1,4 @@
-### Personal GitHub home page 🚀
+### Aiazt GitHub home page 🚀
 
 Discover interesting and cool projects and stay motivated to explore...
 
