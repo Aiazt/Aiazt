@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aiazt&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="Aiazt github stats" width="480" height="170" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiazt&layout=compact&theme=material-palenight" alt="Top Langs" height="165" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiazt&layout=compact&theme=material-palenight" alt="Top Langs" height="166" />
 </a>
 
 <!--
