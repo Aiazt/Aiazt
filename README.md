@@ -1,6 +1,6 @@
 ### Personal GitHub home page 🚀
 
-Explore interesting and fun projects and keep this passion alive...
+Explore interesting and fun projects and keep that love alive ......
 
 <!--
 **Aiazt/Aiazt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
